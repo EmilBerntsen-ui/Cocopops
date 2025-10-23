@@ -1,11 +1,7 @@
-# Questions:
-how do you canculate the micrograms of venom to use pr. mouse. how is 
+# notes from meeting with milisa:
 
-
-# Notes: 
-First we want to find LD50. 
-then ED50
-
-
-read: 
-"Study of the design and analytical properties of the lethality neutralization assay used to estimate antivenom potency against Bothrops asper snake venom"
+1. For alleni, we can concentrate the antibodies 2:1. if so:
+	- change buffer from PBS to water. 
+	- keep in a fridge. it can last months.
+2. given the nanodrop is close to the ratio, we should just keep using the weight.
+3.we can make a stock a venoms instead, and take the nanodrop of that for higher precicion. keep in the freezer
